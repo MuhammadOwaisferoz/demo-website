@@ -1,0 +1,109 @@
+
+.logo {
+
+    justify-content: space-between;
+    /* padding-left: 50px; */
+    /* padding-right: 50px; */
+}
+
+.heading {
+    text-align: center;
+    color: rgba(151, 42, 42, 0.789);
+
+}
+
+.bar_1 {
+    margin-right: auto;
+    /* padding-right: 20px; */
+}
+
+.content {
+    padding: 20px;
+    padding-right: 10px;
+}
+
+.banner_img {
+    padding-left: 5px;
+    padding-right: 5px;
+    /* justify-content: space-between; */
+}
+
+.banner_text h4 {
+    position: absolute;
+    color: #fff;
+    font-size: 48px;
+    padding-left: 20px;
+    font-style: Algerian;
+
+
+
+}
+
+.container {
+    height: auto;
+    position: relative;
+    align-items: center;
+
+    /* background-color: yellowgreen; */
+}
+
+.container_img {
+    display: block;
+    width: 100%;
+}
+
+.name {
+    position: absolute;
+    bottom: 10px;
+    padding-left: 20px;
+    font-size: 48px;
+    color: #fff;
+    font-style: ;
+
+}
+
+.navebar {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    align-items: center;
+    margin-bottom: 12px;
+    box-shadow: 0px 1px 2px;
+
+}
+
+
+ ul{
+    list-style-type: disc;
+   }
+
+/* i {
+    color: red;}
+    li:hover{
+        background-color: red;
+    } */
+menu{
+    display: flex;
+    list-style-type: none;
+
+}
+.menu{
+    display: inline-block;
+    
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 22px;
+    color: #000;
+    cursor: pointer;
+    text-align: center;
+    padding: 5px;
+    padding: 10px 10px;
+    border-radius:125px;
+    font-weight: 700;
+
+
+}
